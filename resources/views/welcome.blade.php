@@ -108,7 +108,7 @@
                 </div>
                 <div class="mr-5 mr-lg-0 ml-lg-2">
                     <a href="#" class="btn btn-size--sm btn-border btn-hover--splash color--white"><span
-                            class="btn__text font-w--500">Get Started</span></a>
+                            class="btn__text font-w--500">ayo belanja</span></a>
                 </div>
                 <!-- end of nav CTA button -->
             </div>
