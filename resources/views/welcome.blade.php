@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>SpaceMax | Multi Purpose HTML Template</title>
+    <title>LimenId Digital Print & Design</title>
     <!-- favicon CSS -->
     <link rel="icon" type="image/png" sizes="32x32" href="favicon.png">
     <!-- fonts -->
@@ -92,6 +92,9 @@
                                                     class="fab fa-pinterest"></i></a></li> --}}
                                         <li class="p-2"><a href="https://www.instagram.com/limen_id/"
                                                 class="color--white"><i class="fab fa-instagram"></i></a></li>
+                                        <li class="p-2"><a href="https://shopee.co.id/limenid" class="color--white">
+                                                <img src="img/shopee-icon-png-5.png"
+                                                    style="width:40px;height:40px;"></a></li>
                                         {{-- <li class="p-2"><a href="#" class="color--white"><i
                                                     class="fab fa-gitter"></i></a></li>
                                         <li class="p-2"><a href="#" class="color--white"><i
@@ -102,12 +105,12 @@
                             </div>
                             <!-- end of icon group col -->
                         </div>
-                        
+
                     </nav>
 
                 </div>
                 <div class="mr-5 mr-lg-0 ml-lg-2">
-                    <a href="#" class="btn btn-size--sm btn-border btn-hover--splash color--white"><span
+                    <a  href="https://shopee.co.id/limenid" class="btn btn-size--sm btn-border btn-hover--splash color--white"><span
                             class="btn__text font-w--500">ayo belanja</span></a>
                 </div>
                 <!-- end of nav CTA button -->
@@ -132,12 +135,14 @@
                             <h1 class="</i> mb-2 mb-lg-3">LimenId digital print
                                 <br> & design
                             </h1>
-                            <p class="hero__description font-size--20 mb-3 mb-lg-5 pr-xl-10">Kami menyediakan jasa cetak dan desain menggunakan
+                            <p class="hero__description font-size--20 mb-3 mb-lg-5 pr-xl-10" >Kami menyediakan jasa
+                                cetak dan desain menggunakan
                                 teknologi yang paling modern, proses singkat, cepat, mudah dan
                                 berkualitas.</p>
                             <!-- end of text content -->
-                            <a href="#" class="btn btn-bg--cta--3 btn-hover--3d">
-                                <span class="btn__text"> <i class="fab fa-github pr-1"></i> Download SpaceMax</span>
+                            <a href="https://shopee.co.id/limenid" class="btn btn-bg--cta--3 btn-hover--3d">
+                                <span class="btn__text"> <img src="img/shopee-icon-png-5.png"
+                                        style="width:40px;height:40px;"> Kunjungi Marketplace</span>
                             </a>
                             <!-- end of button -->
                         </div>
@@ -204,7 +209,7 @@
                 <div class="row">
                     <div class="col-12 col-md-10 col-lg-5">
                         <div class="section-title mb-5 mb-lg-7 text-center text-md-left reveal">
-                            <h2 class="h3-font">Build and deploy <br>blockchain applications <br> with speed.
+                            <h2 class="h3-font">fokus dengan bisnis,<br>Pekerjaan cetak <br> serahkan pada kami .
                             </h2>
                         </div>
                     </div>
@@ -233,12 +238,11 @@
                                             <i class="icon icon-contacts"></i>
                                         </span>
                                         <h3 class="font-size--30 font-w--700 mb-2"><a href="#"
-                                                class="color--white">Smart <br> Contracts</a></h3>
-
-                                        <p class="mb-3 font-size--20 opacity--80">Computers have become ubiquitous in
-                                            almost every facet of our lives. At work, desk jockeys spend.</p>
+                                                class="color--white">Cetak & Desain <br> Kartu Nama</a></h3>
                                     </div>
-
+                                    <H3 class="p-2"><a href="https://shopee.co.id/limenid" class="color--white">
+                                        <img src="img/ID CARD.png"
+                                            style="width:250px;height:170px; display:block; margin:auto;"></a></H3>
                                     <div class="card-footer">
                                         <a href="#" class="font-size--26 color--white"><i
                                                 class="icon icon-arrow-right"></i></a>
@@ -253,11 +257,13 @@
                                             <i class="icon icon-tool-blur"></i>
                                         </span>
                                         <h3 class="font-size--30 font-w--700 mb-2"><a href="#"
-                                                class="color--white">State <br> Channels</a></h3>
+                                                class="color--white">Cetak & Desain <br> Brosur</a></h3>
 
-                                        <p class="mb-3 font-size--20 opacity--80">Computers have become ubiquitous in
-                                            almost every facet of our lives. At work, desk jockeys spend.</p>
+                                                
                                     </div>
+                                    <H3 class="p-2"><a href="https://shopee.co.id/limenid" class="color--white">
+                                        <img src="img/brosur.png"
+                                            style="width:250px;height:170px; display:block; margin:auto;"></a></H3>
                                     <div class="card-footer">
                                         <a href="#" class="font-size--26 color--white"><i
                                                 class="icon icon-arrow-right"></i></a>
@@ -272,7 +278,7 @@
                                             <i class="icon icon-meeting"></i>
                                         </span>
                                         <h3 class="font-size--30 font-w--700 mb-2"><a href="#"
-                                                class="color--white">Unique <br> Governance</a></h3>
+                                            class="color--white">Cetak & Desain <br> Stiker</a></h3>
 
                                         <p class="mb-3 font-size--20 opacity--80">Computers have become ubiquitous in
                                             almost every facet of our lives. At work, desk jockeys spend.</p>
