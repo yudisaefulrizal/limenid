@@ -280,8 +280,9 @@
                                         <h3 class="font-size--30 font-w--700 mb-2"><a href="#"
                                             class="color--white">Cetak & Desain <br> Stiker</a></h3>
 
-                                        <p class="mb-3 font-size--20 opacity--80">Computers have become ubiquitous in
-                                            almost every facet of our lives. At work, desk jockeys spend.</p>
+                                            <H3 class="p-2"><a href="https://shopee.co.id/limenid" class="color--white">
+                                                <img src="img/stiker.png"
+                                                    style="width:250px;height:170px; display:block; margin:auto;"></a></H3>
                                     </div>
 
                                     <div class="card-footer">
