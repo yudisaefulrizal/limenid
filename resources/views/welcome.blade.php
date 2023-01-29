@@ -110,7 +110,8 @@
 
                 </div>
                 <div class="mr-5 mr-lg-0 ml-lg-2">
-                    <a  href="https://shopee.co.id/limenid" class="btn btn-size--sm btn-border btn-hover--splash color--white"><span
+                    <a href="https://shopee.co.id/limenid"
+                        class="btn btn-size--sm btn-border btn-hover--splash color--white"><span
                             class="btn__text font-w--500">ayo belanja</span></a>
                 </div>
                 <!-- end of nav CTA button -->
@@ -135,7 +136,7 @@
                             <h1 class="</i> mb-2 mb-lg-3">LimenId digital print
                                 <br> & design
                             </h1>
-                            <p class="hero__description font-size--20 mb-3 mb-lg-5 pr-xl-10" >Kami menyediakan jasa
+                            <p class="hero__description font-size--20 mb-3 mb-lg-5 pr-xl-10">Kami menyediakan jasa
                                 cetak dan desain menggunakan
                                 teknologi yang paling modern, proses singkat, cepat, mudah dan
                                 berkualitas.</p>
@@ -241,8 +242,8 @@
                                                 class="color--white">Cetak & Desain <br> Kartu Nama</a></h3>
                                     </div>
                                     <H3 class="p-2"><a href="https://shopee.co.id/limenid" class="color--white">
-                                        <img src="img/ID CARD.png"
-                                            style="width:250px;height:170px; display:block; margin:auto;"></a></H3>
+                                            <img src="img/ID CARD.png"
+                                                style="width:250px;height:170px; display:block; margin:auto;"></a></H3>
                                     <div class="card-footer">
                                         <a href="#" class="font-size--26 color--white"><i
                                                 class="icon icon-arrow-right"></i></a>
@@ -259,11 +260,11 @@
                                         <h3 class="font-size--30 font-w--700 mb-2"><a href="#"
                                                 class="color--white">Cetak & Desain <br> Brosur</a></h3>
 
-                                                
+
                                     </div>
                                     <H3 class="p-2"><a href="https://shopee.co.id/limenid" class="color--white">
-                                        <img src="img/brosur.png"
-                                            style="width:250px;height:170px; display:block; margin:auto;"></a></H3>
+                                            <img src="img/brosur.png"
+                                                style="width:250px;height:170px; display:block; margin:auto;"></a></H3>
                                     <div class="card-footer">
                                         <a href="#" class="font-size--26 color--white"><i
                                                 class="icon icon-arrow-right"></i></a>
@@ -278,11 +279,13 @@
                                             <i class="icon icon-meeting"></i>
                                         </span>
                                         <h3 class="font-size--30 font-w--700 mb-2"><a href="#"
-                                            class="color--white">Cetak & Desain <br> Stiker</a></h3>
+                                                class="color--white">Cetak & Desain <br> Stiker</a></h3>
 
-                                            <H3 class="p-2"><a href="https://shopee.co.id/limenid" class="color--white">
+                                        <H3 class="p-2"><a href="https://shopee.co.id/limenid"
+                                                class="color--white">
                                                 <img src="img/stiker.png"
-                                                    style="width:250px;height:170px; display:block; margin:auto;"></a></H3>
+                                                    style="width:250px;height:170px; display:block; margin:auto;"></a>
+                                        </H3>
                                     </div>
 
                                     <div class="card-footer">
@@ -300,10 +303,13 @@
                                             <i class="icon icon-app-store"></i>
                                         </span>
                                         <h3 class="font-size--30 font-w--700 mb-2"><a href="#"
-                                                class="color--white">Oracles</a></h3>
+                                                class="color--white">Sablon <br> Mug & Thumler</a></h3>
 
-                                        <p class="mb-3 font-size--20 opacity--80">Computers have become ubiquitous in
-                                            almost every facet of our lives. At work, desk jockeys spend.</p>
+                                        <H3 class="p-2"><a href="https://shopee.co.id/limenid"
+                                                class="color--white">
+                                                <img src="img/gelas dan botol.png"
+                                                    style="width:250px;height:170px; display:block; margin:auto;"></a>
+                                        </H3>
                                     </div>
                                     <div class="card-footer">
                                         <a href="#" class="font-size--26 color--white"><i
@@ -319,10 +325,13 @@
                                             <i class="icon icon-handshake"></i>
                                         </span>
                                         <h3 class="font-size--30 font-w--700 mb-2"><a href="#"
-                                                class="color--white">Consensus</a></h3>
+                                                class="color--white">Cetak & Desain <br> Kalendar</a></h3>
 
-                                        <p class="mb-3 font-size--20 opacity--80">Computers have become ubiquitous in
-                                            almost every facet of our lives. At work, desk jockeys spend.</p>
+                                        <H3 class="p-2"><a href="https://shopee.co.id/limenid"
+                                                class="color--white">
+                                                <img src="img/kalendar.png"
+                                                    style="width:250px;height:170px; display:block; margin:auto;"></a>
+                                        </H3>
                                     </div>
                                     <div class="card-footer">
                                         <a href="#" class="font-size--26 color--white"><i
@@ -444,7 +453,9 @@
                                 <img src="img/layout/video-bg-1.png" alt="wave" class="background-image-holder">
                             </div>
                             <!-- end of background -->
-                            <h2>Advancing<br> Blockchain<br>Technology</h2>
+                            <h4>FOKUS DENGAN BISNIS <br>
+                                ANDA, PEKERJAKAN CETAK<br>
+                                SERAHKAN PADA KAMI</h4>
                         </div>
                     </div>
                     <div class="col-12 col-lg-7 col-xl-8 ml-auto about-video-media">
@@ -464,7 +475,7 @@
         <!-- =========== End of Intro Video ============ -->
 
         <!-- =========== Start of Content Block ============ -->
-        <section class="space" id="why">
+        {{-- <section class="space" id="why">
             <div class="container">
                 <div class="row space--bottom flex-column-reverse flex-lg-row align-items-center text-center">
                     <div class="col-12 col-md-10 col-lg-6 text-lg-left reveal">
@@ -513,11 +524,11 @@
                 </div>
                 <!--== end of content block 2 row ==-->
             </div>
-        </section>
+        </section> --}}
         <!-- =========== End of Content Block ============ -->
 
         <!-- =========== Start of tech use ============ -->
-        <section class="space--bottom bg-color--primary hidden" id="developer">
+        {{-- <section class="space--bottom bg-color--primary hidden" id="developer">
             <div class="svg-shape--top w-100 z-index1">
                 <img src="img/layout/mask-9.svg" alt="mask" class="svg w-100">
             </div>
@@ -587,11 +598,11 @@
                 <!-- end of content block row -->
             </div>
             <!-- end of container -->
-        </section>
+        </section> --}}
         <!-- =========== End of tech use ============ -->
 
         <!-- =========== Start of Core Features ============ -->
-        <section class="pt-8 pb-6 pt-lg-8 pb-lg-7 bg-color--primary-light--1 upcoming-events--v1" id="events">
+        {{-- <section class="pt-8 pb-6 pt-lg-8 pb-lg-7 bg-color--primary-light--1 upcoming-events--v1" id="events">
             <div class="container">
                 <div class="row position-relative pt-lg-5">
                     <div class="background-holder background--top--left opacity--30">
@@ -715,11 +726,11 @@
                 </div>
                 <!-- end of carosuel slider v4 -->
             </div>
-        </section>
+        </section> --}}
         <!-- =========== End of Core Features ============ -->
 
         <!-- =========== Start of News ============ -->
-        <section class="space--bottom bg-color--primary-light--1 ">
+        {{-- <section class="space--bottom bg-color--primary-light--1 ">
             <div class="container">
                 <div class="row justify-content-center reveal">
                     <div class="col-12 col-lg-5 mb-2">
@@ -752,7 +763,7 @@
                     <!-- end of col -->
                 </div>
             </div>
-        </section>
+        </section> --}}
         <!-- =========== End of News ============ -->
 
         <!-- =========== Start of Footer and Newsletter ============ -->
@@ -782,12 +793,10 @@
                                 </div>
                                 <!-- end of title -->
                                 <form action="#" class="form">
-                                    <div class="input-group d-flex">
-                                        <input type="email" class="form-control" placeholder="Enter your email"
-                                            required>
-                                        <button class="btn btn-hover--splash btn-bg--cta--3" type="submit"><span
-                                                class="btn__text"><i
-                                                    class="icon icon-arrow-right"></i></span></button>
+                                    <a href="https://shopee.co.id/limenid" class="btn btn-bg--cta--3 btn-hover--3d">
+                                        <span class="btn__text"> <img src="img/shopee-icon-png-5.png"
+                                                style="width:40px;height:40px;"> Kunjungi Marketplace</span>
+                                    </a>
                                     </div>
                                 </form>
                                 <!-- end of from -->
@@ -807,7 +816,7 @@
                             <span class="mb-2">
                                 <img src="img/limen id + text putih.png" alt="brand-logo">
                             </span>
-                            <div class="widget widget-nav">
+                            {{-- <div class="widget widget-nav">
                                 <ul>
                                     <li><a href="#">Download</a></li>
                                     <li><a href="#">Privacy Policy</a></li>
@@ -815,7 +824,7 @@
                                     <li><a href="#">Whitepaper</a></li>
                                     <li><a href="#">News</a></li>
                                 </ul>
-                            </div>
+                            </div> --}}
                             <!-- end of widget -->
                         </div>
                         <!-- end of widget col -->
